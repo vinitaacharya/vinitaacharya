@@ -28,5 +28,4 @@ What drew me to computer science wasn’t just the logic or the code—it was th
 
 ---
 
-What do you think? Would you like to add a fun section like hobbies or fun facts? 😊
 
