@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm [Your Name]  
+# 👋 Hello, World! I'm Vinita. 
 
 ### 🌱 About Me  
 What drew me to computer science wasn’t just the logic or the code—it was the creativity and innovation behind every solution. I love the challenge of turning abstract ideas into functional, impactful technology. Whether it’s building intuitive user interfaces, analyzing data to uncover insights, or optimizing workflows through automation, I find joy in solving problems in unique and meaningful ways. I’m passionate about continuous learning and pushing the boundaries of what technology can do.  
